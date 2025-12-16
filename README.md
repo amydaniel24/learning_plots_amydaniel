@@ -1,7 +1,5 @@
 ```text
 
-
-```markdown
 # learning_plots_amydaniel
 
 Learning Plots with Spotify Data
@@ -10,7 +8,7 @@ This repository contains a small project on plotting using Matplotlib.
 
 All work was completed by following along with an instructional walkthrough video.
 
-```text
+
 learning_plots_amydaniel/
 │
 ├── data/
