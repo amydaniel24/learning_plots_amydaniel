@@ -1,3 +1,7 @@
+```text
+
+
+```markdown
 # learning_plots_amydaniel
 
 Learning Plots with Spotify Data
@@ -6,6 +10,7 @@ This repository contains a small project on plotting using Matplotlib.
 
 All work was completed by following along with an instructional walkthrough video.
 
+```text
 learning_plots_amydaniel/
 │
 ├── data/
@@ -24,12 +29,12 @@ learning_plots_amydaniel/
 │
 └── README.md
 
+
 How to Run This Project
 
 Install required libraries:
 
 pip install matplotlib seaborn pandas
-
 
 Open the notebooks/spotify_plots_walkthrough.ipynb file in Jupyter, VS Code, or another notebook environment.
 
